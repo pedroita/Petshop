@@ -7,7 +7,8 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { LoginPageComponent } from './login-page/login-page.component';
 import { ResetPasswoldPageComponent } from './reset-passwold-page/reset-passwold-page.component';
 import { SingupPageComponent } from './singup-page/singup-page.component';
-import { PetsPageComponentComponent } from './pets-page-component/pets-page-component.component';
+import { ProductsPageComponent } from './products-page/products-page.component';
+import { PetsPageComponent } from './pets-page/pets-page.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { PetsPageComponentComponent } from './pets-page-component/pets-page-comp
     LoginPageComponent,
     ResetPasswoldPageComponent,
     SingupPageComponent,
-    PetsPageComponentComponent
+    ProductsPageComponent,
+    PetsPageComponent
   ],
   imports: [
     BrowserModule,
