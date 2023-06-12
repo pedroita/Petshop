@@ -10,6 +10,7 @@ import { ProductsPageComponent } from './pages/store/products-page/products-page
 import { SingupPageComponent } from './pages/account/singup-page/singup-page.component';
 import { ResetPasswoldPageComponent } from './pages/account/reset-passwold-page/reset-passwold-page.component';
 import { LoginPageComponent } from './pages/account/login-page/login-page.component';
+import { FramePageComponent } from './pages/master/frame.page';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { LoginPageComponent } from './pages/account/login-page/login-page.compon
     SingupPageComponent,
     ProductsPageComponent,
     PetsPageComponent,
-    CartPageComponent
+    CartPageComponent,
+    FramePageComponent
   ],
   imports: [
     BrowserModule,
