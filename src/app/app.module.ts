@@ -11,6 +11,7 @@ import { SingupPageComponent } from './pages/account/singup-page/singup-page.com
 import { ResetPasswoldPageComponent } from './pages/account/reset-passwold-page/reset-passwold-page.component';
 import { LoginPageComponent } from './pages/account/login-page/login-page.component';
 import { FramePageComponent } from './pages/master/frame.page';
+import { ProductCardComponent } from './components/store/product-card/product-card.component';
 
 
 @NgModule({
@@ -23,7 +24,8 @@ import { FramePageComponent } from './pages/master/frame.page';
     ProductsPageComponent,
     PetsPageComponent,
     CartPageComponent,
-    FramePageComponent
+    FramePageComponent,
+    ProductCardComponent
   ],
   imports: [
     BrowserModule,
