@@ -18,7 +18,7 @@ export class DataService {
     }
 
     getProducts() {
-        return this.http.get<any[]>('')
+        return this.http.get<any[]>('');
     }
 
     // authenticate(data) {
