@@ -19,7 +19,7 @@ const routes: Routes = [
   },
   {
     path : 'account',
-    component : FramePageComponent,
+    component : FramePageComponen
     children:[
       {path: 'pets',component:PetsPageComponent},
     ]

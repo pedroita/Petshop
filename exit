@@ -1,0 +1,107 @@
+[33mcommit ee7c9c1ce97949e432efbf8d6f89b3a2817b145e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Mon Jun 19 20:24:29 2023 -0300
+
+    chore: add commit linter
+
+[33mcommit 8a4dddbf41d809da84b25b3b3914fbcc1be57f48[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Mon Jun 19 20:21:08 2023 -0300
+
+    cls
+
+[33mcommit 55b5a7c89ee84849ce5cd932df659863f7ce84b3[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Mon Jun 19 20:11:43 2023 -0300
+
+    PERF[ajuste de ponto e virgula]: teste de novo padrão de commmit
+
+[33mcommit 2334417b79e25ef4df57bb589b495c5bd1c7a837[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Mon Jun 12 22:54:20 2023 -0300
+
+    criar componete
+
+[33mcommit e14d1966ee48acbe4ad9e7975b4637dfe387d561[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Mon Jun 12 21:38:42 2023 -0300
+
+    service
+
+[33mcommit dd2c95883d74bac5f0921900a13090cb57947111[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Mon Jun 12 00:33:35 2023 -0300
+
+    rotas criadas
+
+[33mcommit 6ff685707e42aca32542b126d1756cfd7558ce57[m[33m ([m[1;31morigin/temp-branch[m[33m, [m[1;32mtemp-branch[m[33m)[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sat Jun 10 13:14:28 2023 -0300
+
+    alteração de pastas
+
+[33mcommit c05ecad6ec16bcf33e3e138b6fba6d65370f8917[m[33m ([m[1;31morigin/releasev2[m[33m, [m[1;31morigin/releasev1-test[m[33m, [m[1;32mreleasev2[m[33m)[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Mon Jun 5 22:41:05 2023 -0300
+
+    Criação do componente de products- page
+
+[33mcommit 23be54b9ab9ace80fd9ccf77db0b06fd8a2e6b86[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Mon Jun 5 08:01:56 2023 -0300
+
+    page products
+
+[33mcommit 67cad2fec3ab6997150a5ad9fb352aa89078884f[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sun Jun 4 13:50:23 2023 -0300
+
+    tela petes
+
+[33mcommit abc56c82436f89fcd5b149f4ee8d7888baa3e912[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sun Jun 4 13:14:43 2023 -0300
+
+    sing up
+
+[33mcommit 74a7021a0985f9bbee992fe43c892bc44398bff2[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sun Jun 4 12:30:17 2023 -0300
+
+    tela de restuara senha
+
+[33mcommit 401fa64ab99cd85523e07409990201e8ce3535fa[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sun Jun 4 12:24:53 2023 -0300
+
+    tela de login criada
+
+[33mcommit f4b853e76fc139821311a28ca536c8263cd6813f[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sun Jun 4 11:54:55 2023 -0300
+
+    criação de rotas
+
+[33mcommit bf01f45a6dacd1a16eaefefe922c9e3003957a97[m[33m ([m[1;31morigin/TelaProduto[m[33m, [m[1;31morigin/TelaPets[m[33m, [m[1;31morigin/TelaLogin[m[33m, [m[1;31morigin/TelaCarrinho[m[33m, [m[1;31morigin/TelaCadastro[m[33m, [m[1;32mTelaLogin[m[33m)[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sun Jun 4 11:48:18 2023 -0300
+
+    criação de componentes
+
+[33mcommit 33748447478ce6a309099d496bddb4b8b9bc3695[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sat Jun 3 00:40:23 2023 -0300
+
+    criação nav bar
+
+[33mcommit 413ee4d722fe6f1a4c4e76be1de40bce083e2eeb[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sun May 28 11:28:45 2023 -0300
+
+    configuração inicial do projeto
+
+[33mcommit 1bb199fa19b1d6622ce0e92103d283c58bcf49fe[m
+Author: Pedro italo <pedroitalocampos@gmail.com>
+Date:   Sat May 27 20:27:16 2023 -0300
+
+    initial commit
